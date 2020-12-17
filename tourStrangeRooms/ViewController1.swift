@@ -1,13 +1,13 @@
 //
-//  ViewController.swift
+//  ViewController1.swift
 //  tourStrangeRooms
 //
-//  Created by Chiori Suzuki on 2020/12/14.
+//  Created by 鈴木ちほり on 2020/12/16.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController1: UIViewController {
 
     var editBarButtonItem: UIBarButtonItem!
      override func viewDidLoad() {
